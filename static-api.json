@@ -12,6 +12,6 @@
     {
         "name": "Close", 
         "description" : "Rahasiakan catatanmu, apabila ada catatan rahasia di aplikasi NoteApp. Karena keteledoran ditanggung penulis",
-        "imageId": "Curhat"
+        "imageId": "Close"
     }
 ]
