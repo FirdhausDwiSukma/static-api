@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Catat",
+        "description" : "Mulailah catat yang menurut kamu penting, agar tidak lupa masukkan catatan harianmu di NoteApp",
+        "imageId": "Catat"
+    },
+    {
+        "name": "Curhat", 
+        "description" : "Apabila kamu merasa jenuh atau butuh waktu untuk sendiri, silahkan curahkan hatimu di NoteApp",
+        "imageId": "Curhat"
+    },
+    {
+        "name": "Close", 
+        "description" : "Rahasiakan catatanmu, apabila ada catatan rahasia di aplikasi NoteApp. Karena keteledoran ditanggung penulis",
+        "imageId": "Curhat"
+    }
+]
